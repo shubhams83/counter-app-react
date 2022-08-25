@@ -1,3 +1,3 @@
 # counter-app-react
 
-## Please click on the Link [link]()
+## Counter App [link]()
