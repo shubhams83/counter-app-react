@@ -1,0 +1,79 @@
+body {
+  font-family: 'Merriweather', serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.container{
+  width: 100%;
+  height: 100vh;
+  background: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.counter-machine{
+  width: 50%;
+  height: 70%;
+  background-color: darkturquoise;
+  box-shadow: 5px 5px 25px -5px black;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1{
+  color: white;
+  background: transparent;
+  font-size: 50px;
+  background-color: black;
+  padding: 6px 0 2px 0;
+  margin-bottom: 10px;
+  width: 10rem;
+  box-shadow: 5px 5px 15px black;
+  border-radius: 10px;
+}
+
+h2{
+  color: rgb(77, 73, 73);
+  background: transparent;
+  font-size: 3rem;
+}
+
+button{
+  min-height: 40px;
+  border-radius: 10px;
+  background-color: black;
+  border-color: darkturquoise;
+  color: black;
+  font-size: 20px;
+  border: none;
+  outline: none;
+  padding: 0 15px;
+  margin-top:30px;
+  box-shadow: 5px 5px 15px -5px black;
+  color: white;
+  font-weight: bold;
+}
+
+.inc-dec-btn{
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+input {
+  border-radius: 1rem;
+  padding: 0.6rem;
+  outline: none;
+  border: none;
+  font-size: 1.5rem;
+}
