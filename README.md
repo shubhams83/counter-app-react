@@ -1,3 +1,3 @@
 # Counter-App-React
 
-## Please Click on the Given URL [link](https://count-react.herokuapp.com/)
+## Please Click on the Given URL [Link](https://count-react.herokuapp.com/)
