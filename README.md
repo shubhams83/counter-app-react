@@ -1,3 +1,3 @@
-# counter-app-react
+# Counter-App-React
 
-## Counter App [link]()
+## Please Click on the Given URL [link]()
